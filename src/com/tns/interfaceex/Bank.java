@@ -9,6 +9,8 @@ public interface Bank
 
 	 void deposit(Account account, double amount);//abstract
 	 void withdraw(Account account, double amount);
+	 void checkBalance(Account account,double amount);
+	 void showtransactionHistory(Account account);
 	 
 
 }
