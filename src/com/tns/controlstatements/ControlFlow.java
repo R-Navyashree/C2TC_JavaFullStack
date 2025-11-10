@@ -1,4 +1,4 @@
-package com.tnsif.Day2;
+package com.tns.controlstatements;
 
 public class ControlFlow {
 	

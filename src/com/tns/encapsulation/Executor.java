@@ -1,5 +1,5 @@
 // Program to demonstrate accessing classes and methods of different packages
-package com.tnsif.Day4.FirstPackage;
+package com.tns.encapsulation;
 
 public class Executor {
 

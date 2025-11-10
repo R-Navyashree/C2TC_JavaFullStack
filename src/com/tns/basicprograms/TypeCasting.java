@@ -1,5 +1,5 @@
 //Program to demonstrate datatypes
-package com.tnsif.Day1;
+package com.tns.basicprograms;
 
 public class TypeCasting {
 

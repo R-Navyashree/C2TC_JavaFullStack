@@ -1,4 +1,4 @@
-package com.tnsif.Day3;
+package com.tns.encapsulation;
 
 import java.util.Scanner;
 

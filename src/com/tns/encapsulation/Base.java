@@ -1,5 +1,5 @@
 // Progarm to Demonstrate package and access modifiers
-package com.tnsif.Day4.FirstPackage;
+package com.tns.encapsulation;
 
 public class Base {
 	int defaultVar= 10;

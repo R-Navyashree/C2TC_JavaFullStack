@@ -1,4 +1,4 @@
-package com.tnsif.poly;
+package com.tns.poly;
 
 public class SBI extends RBI{
 	public static float getRateOfInterest() {

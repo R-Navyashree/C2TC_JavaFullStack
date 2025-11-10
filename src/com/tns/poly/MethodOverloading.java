@@ -1,5 +1,5 @@
 // Method Overloading 
-package com.tnsif.poly;
+package com.tns.poly;
 
 public class MethodOverloading {
  public static int Addition(int a,int b) {

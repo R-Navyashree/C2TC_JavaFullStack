@@ -1,6 +1,4 @@
-package com.tnsif.Day4.secondpackage;
-
-import com.tnsif.Day4.FirstPackage.Base;
+package com.tns.encapsulation;
 
 public class Excecutor {
 

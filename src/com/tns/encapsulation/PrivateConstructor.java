@@ -1,4 +1,4 @@
-package com.tnsif.Day4.thirdpackage;
+package com.tns.encapsulation;
 
 public class PrivateConstructor {
 

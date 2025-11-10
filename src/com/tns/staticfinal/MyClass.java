@@ -1,4 +1,4 @@
-package com.tnsif.staticfinal_6;
+package com.tns.staticfinal;
 
 public class MyClass {
 	private int section;//non - static 

@@ -1,4 +1,4 @@
-package com.tnsif.poly;
+package com.tns.poly;
 
 public class MethodOverloadingDemo {
 	public static void main(String[] args) {
